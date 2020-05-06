@@ -1,0 +1,4 @@
+    * Clone the github repository
+    * Open it using a suitable IDE
+    * Update Maven project dependencies
+    * Run the program
